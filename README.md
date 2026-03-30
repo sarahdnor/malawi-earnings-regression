@@ -1,6 +1,7 @@
-## Final Project 2
+# STAT 301 - Data Science W/R: Final Project
 
-#Objectives
+## Objectives
+
 -  The goal of this final is to develop the skills and knowledge needed to properly implement statistical/machine learning techniques to build predictive models on a real world dataset of our choosing.
 
 ## What's in the repo
